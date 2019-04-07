@@ -2,4 +2,6 @@
 
 une demo de git qui se passe bien
 
-Maintenant modifié depuis Github
+Maintenant modifié depuis Github 
+petit modif depuis local
+
